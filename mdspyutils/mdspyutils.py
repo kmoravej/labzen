@@ -10,7 +10,7 @@ def parse_lab(file_name: str) -> list:
             search for all labs in the working directory based on the file
             extension.
     Returns:
-        list: each element of list is a content of one markdown cell.
+        list: Each element of list is a content of one markdown cell.
 
     Example:
         parse_lab()
