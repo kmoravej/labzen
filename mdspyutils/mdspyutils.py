@@ -2,7 +2,7 @@ import pandas as pd
 
 
 def parse_lab(file_name: str) -> list:
-    """This function parse the content of MDS lab files
+    """Parse MDS lab files to return the markdown content
 
     Args:
         file_name (str): A path or list of paths to MDS lab files (either
