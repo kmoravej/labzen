@@ -69,7 +69,7 @@ Navigate to the root of labzen repo. From the root of repository run the followi
 >>> print(df)
 >>> print(tab)
 ```
- This will return a tuple of DataFrames. The first is a section-by-section overview of points available. The second is a cross table summarising the number of optional, required, and total points per lab.
+ This will return a tuple of DataFrames. The first Dataframe is a section-by-section overview of points available. The second Dataframe is a cross table summarising the number of optional, required, and total points per lab.
 
  To check the lab mechanics run the following python commands: 
 
