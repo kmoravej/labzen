@@ -8,7 +8,6 @@ To use labzen in a project::
 
     from labzen import labzen as lz
  
-
 We have provided two dummy lab files, one `Rmarkdown lab <https://github.com/UBC-MDS/labzen/blob/main/data-raw/dummylab.Rmd>`_  and one `Jupyter notebook <https://github.com/UBC-MDS/labzen/blob/main/data-raw/dummylab.ipynb>`_, to show the functionality of the ``labzen`` package. 
 To access the dummy lab files, you can either clone the repository using the following command::
 
