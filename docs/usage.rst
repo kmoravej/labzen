@@ -39,7 +39,7 @@ From the root of the repository/ working directory run the following python code
     df, tab = lz.count_points("data-raw/dummylab.ipynb")
     print(df)
 
-.. image:: img/extract_points.jpg
+.. image:: img/extract_points.JPG
     :width: 800
  
 
@@ -48,7 +48,7 @@ Since requires quesitons only are meant to get you to a 95% grade, the optionals
 For convenience, the total marks can also be viewed via::
     print(tab)
 
-.. image:: img/total_points.jpg
+.. image:: img/total_points.JPG
     
 
 In this dummy example, we can see that the optional questions are worth a lot of marks– more than enough to get to 100% if completed. It is always good to have optional questions!
